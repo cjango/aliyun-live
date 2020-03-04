@@ -23,7 +23,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Jason\\Live\\ApiServiceProvider"
+                "Jason\\Live\\ServiceProvider"
             ],
             "aliases": {
                 "Live": "Jason\\Live"
